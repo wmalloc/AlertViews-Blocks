@@ -103,6 +103,7 @@
 #pragma mark - UIAlertViewDelegate
 - (void)alertView:(UIAlertView *)alertView didDismissWithButtonIndex:(NSInteger)buttonIndex
 {
+#pragma unused(alertView)
     NSMutableArray *buttonsArray = [self buttonsArray];
     CRIButtonItem *item = buttonsArray[buttonIndex];
     if(item.action)
