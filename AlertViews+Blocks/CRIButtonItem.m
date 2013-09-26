@@ -33,6 +33,5 @@
 - (void)dealloc
 {
     _action = nil;
-    _label = nil;
 }
 @end
