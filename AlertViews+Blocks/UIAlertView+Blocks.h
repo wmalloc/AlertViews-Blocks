@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Crimson Research, Inc. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 @class CRIButtonItem;
 

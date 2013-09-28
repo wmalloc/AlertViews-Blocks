@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Crimson Research, Inc. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 typedef void (^CRIButtonItemActionRef)(void);
 
