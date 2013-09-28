@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         	= "AlertViews+Blocks"
-  s.version      	= "1.0.2"
-  s.platform        = :ios, "7.0"
+  s.version      	= "1.0.3"
+  s.platform        = :ios, "5.0"
   s.summary      	= "Extensions for UIAlertView and UIActionSheet using blocks"
   s.description		= "Makes really easy to use Alertviews and Action Sheets without having to keep track of them as instance variables."
   s.homepage     	= "https://github.com/wmalloc/AlertViews-Blocks.git"
