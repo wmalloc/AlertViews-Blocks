@@ -31,6 +31,7 @@
 		842294681774D9C000958105 /* UIActionSheet+Blocks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIActionSheet+Blocks.m"; sourceTree = "<group>"; };
 		842294691774D9C000958105 /* UIAlertView+Blocks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+Blocks.h"; sourceTree = "<group>"; };
 		8422946A1774D9C000958105 /* UIAlertView+Blocks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+Blocks.m"; sourceTree = "<group>"; };
+		8436A41617F77D85002F0F71 /* AlertViews+Blocks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AlertViews+Blocks.h"; sourceTree = "<group>"; };
 		844FCE7D174DEB0900BB8481 /* AlertView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlertView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		844FCE80174DEB0900BB8481 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		844FCE82174DEB0900BB8481 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -67,6 +68,7 @@
 		842294641774D9C000958105 /* AlertViews+Blocks */ = {
 			isa = PBXGroup;
 			children = (
+				8436A41617F77D85002F0F71 /* AlertViews+Blocks.h */,
 				842294651774D9C000958105 /* CRIButtonItem.h */,
 				842294661774D9C000958105 /* CRIButtonItem.m */,
 				842294671774D9C000958105 /* UIActionSheet+Blocks.h */,

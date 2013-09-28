@@ -7,9 +7,8 @@
 //
 
 #import "CRIViewController.h"
-#import "CRIButtonItem.h"
-#import "UIAlertView+Blocks.h"
-#import "UIActionSheet+Blocks.h"
+#import "AlertViews+Blocks.h"
+
 @interface CRIViewController () <UIAlertViewDelegate, UIActionSheetDelegate>
 
 @end
